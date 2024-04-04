@@ -1,0 +1,6 @@
+package com.example.banktree
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
